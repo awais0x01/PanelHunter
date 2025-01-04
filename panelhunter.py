@@ -14,9 +14,9 @@ DEFAULT_WORDLIST = "wordlist.txt"
 BANNER = """
 \033[92m
 ╔════════════════════════════════════════════╗
-║                PanelHunter                ║
-║          Admin Panel Finder Tool          ║
-║                by: awais0x01              ║
+║                 PanelHunter                ║
+║           Admin Panel Finder Tool          ║
+║                 by: awais0x01              ║
 ╚════════════════════════════════════════════╝
 \033[0m
 """
